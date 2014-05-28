@@ -1,8 +1,8 @@
 Package: sknn
-Title: What the package does (short line)
+Title: Simiarity-based k-nearest neighbors algorithms
 Version: 0.1
-Authors@R: "First Last <first.last@example.com> [aut, cre]"
-Description: What the package does (paragraph)
+Authors: "Kun Ren <renkun@outlook.com>"
+Description: Similarity-based k-nearest neighbors algorithms for classification, regression, and clustering
 Depends: R (>= 3.1.0)
-License: What license is it under?
+License: GPLv3
 LazyData: true
